@@ -15,3 +15,4 @@ Homeworks for the course "Algorithms and Data Structures" ITMO
 13 Shortest paths
 14 Floyd, MST and Eulerian cycle
 15 Number theory
+
